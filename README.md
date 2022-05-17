@@ -1,0 +1,2 @@
+# LED-CHARACTERIZATION-SOFTWARE
+LED CHARACTERIZATION SOFTWARE (measure I-V curve, emission spectrum, etc....)
